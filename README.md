@@ -14,10 +14,10 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Front-End Web Development ,and learning MERN Stack Development.
-- 👯 I’m looking to collaborate with Front-End Web and Mobile Developement projects.
+- 🔭 I’m currently working on MERN stack Web Development ,and exploring AI/ML.
+- 👯 I’m looking to collaborate with Web and Mobile Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love Sports, especially Cricket, Video Games and Chess.
 <br>
 
 ---

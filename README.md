@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    This is me <b>Meraj Ali</b> <b>Computer System</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
-    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/" target="_blank"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
+    This is me <b>Muhammad Daniyal</b> <b>Computer System</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
+    An aspiring <b>MERN Stack Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/" target="_blank"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -84,22 +84,19 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/meraj-ali-888387253/">
+  <a href="https://www.linkedin.com/in/muhammad-daniyal-a091a2253/">
    <img align="left" alt=" Meraj Ali | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:merajali45425@gmail.com">
+  <a href="mailto:daniyalghani159@gmail.com">
     <img align="left" alt="Meraj Ali | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <!-- <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="Meraj Ali| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a> -->
-  <a href="https://www.instagram.com/merajalyyy/">
+<!--   <a href="https://www.instagram.com/merajalyyy/">
     <img align="left" alt="Meraj Ali | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100008624371305">
+  </a> -->
+<!--    <a href="https://www.facebook.com/profile.php?id=100008624371305">
     <img align="left" alt="Meraj Ali| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/MerajAli1">
+  </a> -->
+   <a href="https://github.com/daniyal-rashid">
     <img align="left" alt="Meraj Ali| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
